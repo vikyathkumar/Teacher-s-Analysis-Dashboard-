@@ -20,16 +20,21 @@ school year for each school on a separate page.
 **Teacher Roles Overview:**
 • The left panel shows the number of teachers by their primary role, with "School - Teacher" being the largest group (269 teachers).
 • The chart on the right displays the number of schools based on teacher roles, and the school year breakdown shows the majority of teachers are in the 2024-2025 school year (240 teachers).
+
+
 **Teacher Retention Rates:**
 • The retention rate from 2023-2024 to 2024-2025 is 85%.
 • Teacher retention is further broken down by school, grade level, and content area:
 • Some schools have a higher retention (e.g., FNCS - North with 25 teachers retained).
 • Retention is highest in 10th and 9th grades, with Science and ELA showing higher retention by content area.
+
+
 **Certification Completion:**
 • The completion rate is shown as 7, with 32 certification IDs tracked.
 • Charts show attendance rates, practicum completion rates, and certification status:
 • 78.13% attended all sessions.
 • 65.63% completed their practicum, while a small percentage are certified, and others are in progress.
+
  
 **Paginated Report**
 • I published the Power BI dashboard and dataset to the workspace.
